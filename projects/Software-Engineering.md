@@ -7,7 +7,7 @@
 * [ChenyuChen1](https://github.com/ChenyuChen1/hotel_A) (Python & JavaScript & HTML & CSS)
 * [Columbine21](https://github.com/Columbine21/air-system-frontend) (Node.js & JavaScript & HTML & CSS)
 * [FFFFFaraway](https://github.com/FFFFFaraway/BUPT-Distributed-Temperature-Control-System) (Node.js & Python & JavaScript & HTML)
-* [Jason210314](https://github.com/Jason210314/BuptAirConditionerSystem) (Python & JavaScript & HTML & CSS)
+* [Jason210314](https://github.com/Jason210314/BuptAirConditionerSystem) (Django & Jquery & Bootstrap)
 * [Resurgam-Akane](https://github.com/Resurgam-Akane/BUPT-SoftwareEngineering) (C++)
 * [Softwareengineering309d](https://github.com/Softwareengineering309d/BUPTACststem) (C++)
 * [bupt-SE-2020-310f](https://github.com/bupt-SE-2020-310f/dtcbs-310f) (Java)
