@@ -32,6 +32,7 @@
 - [程序设计实践](./projects/Program-Practice.md)
 - [数据库系统原理](./projects/Database.md)
 - [网络技术实践](./projects/Network-Practice.md)
+- [信息与知识获取](./project/Info-Know.md)
 
 ### 协议
 
