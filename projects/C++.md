@@ -23,7 +23,7 @@
 * [Gaojianli](https://github.com/Gaojianli/Word-Clear)
 * [JmPotato](https://github.com/JmPotato/Word_Breaker)
 * [emgta](https://github.com/emgta/WordDeleteGame)
-* [ltg001](https://github.com/ltg001/word_game)
+* [tabVersion](https://github.com/tabVersion/word_game)
 * [name1e5s](https://github.com/name1e5s/MemoryGame)
 * [pengshuai98](https://github.com/pengshuai98/QT-Cplusplus-realizes-Word-Elimination-Game)
 * [zjpeng957](https://github.com/zjpeng957/wordGame-server)
