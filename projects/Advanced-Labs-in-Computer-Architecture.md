@@ -1,6 +1,6 @@
 # 计算机组成原理课程设计
 
-### ？级 ～ 2018 级 - 硬布线 CPU 设计
+### ？级 ～ 2018 级 - 硬布线 CPU 设计 (VHDL)
 
 * [Forec](https://github.com/Forec/course-design/tree/master/computer-organization-design)
 * [MrYuan123](https://github.com/MrYuan123/Projects_Design/tree/master/Hardware_design_project(TEC-8))
