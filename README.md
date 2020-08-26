@@ -25,6 +25,10 @@
 - [计算机组成原理课程设计](./projects/Advanced-Labs-in-Computer-Architecture.md)
 - [面向对象程序设计实践（C++）](./projects/C++.md)
 
+#### 本科三年级
+
+- [编译原理与技术](./projects/Compilers.md)
+
 ### 协议
 
 该项目由贡献者编写的部分以 [CC-BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) 协议共享。其余部分的版权归属于各自的作者。
