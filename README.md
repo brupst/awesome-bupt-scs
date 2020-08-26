@@ -34,6 +34,7 @@
 - [网络技术实践](./projects/Network-Practice.md)
 - [信息与知识获取](./project/Info-Know.md)
 - [Linux开发环境及应用](./projects/Linux.md)
+- [计算机系统结构](./projects/Computer-Architecture.md)
 
 ### 协议
 
