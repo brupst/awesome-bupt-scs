@@ -13,19 +13,20 @@
 * [BOT Man](https://github.com/BOT-Man-JL/BUPT-Projects/tree/master/1-2-Programming/Crazy-Train-Sim)
 
 #### 银行排队模拟
+
 * [Forec](https://github.com/Forec/course-design)
 
 ### 2017 级 - 车间调度模拟
 
-* [name1e5s](https://github.com/name1e5s/JobShop)
-* [JmPotato](https://github.com/JmPotato/JobShop)
-* [TOMATOFAQ](https://github.com/TOMATOFAQ/GA_JOBSHOP)
-* [imtsuki & Celery](https://github.com/CeleryMoonLight/JobShop)
-* [Gaojianli](https://github.com/Gaojianli/jobshop)
-* [zqb-knight](https://github.com/zqb-knight/jobshop-)
 * [CCDV2](https://github.com/CCDV2/jobshop-schedule)
+* [Gaojianli](https://github.com/Gaojianli/jobshop)
+* [JmPotato](https://github.com/JmPotato/JobShop)
 * [Nihileon & JaciyWang](https://github.com/justagroup/JobShop)
 * [RinChanNOWWW](https://github.com/RinChanNOWWW/JobshopHomework)
+* [TOMATOFAQ](https://github.com/TOMATOFAQ/GA_JOBSHOP)
+* [imtsuki & Celery](https://github.com/CeleryMoonLight/JobShop)
+* [name1e5s](https://github.com/name1e5s/JobShop)
+* [zqb-knight](https://github.com/zqb-knight/jobshop-)
 
 ### 2018 级 - 订单派送&模拟外卖配单
 
