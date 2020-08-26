@@ -40,6 +40,10 @@
 - [Linux 开发环境及应用](./projects/Linux.md)
 - [移动互联网技术及应用](./projects/Mobile-Internet-Technology-and-Application.md)
 
+#### 其它
+
+- [awsome-bupt-rust](https://github.com/brupst/awsome-bupt-rust) 来自北邮的 Rust 手作
+
 ### 协议
 
 该项目由贡献者编写的部分以 [CC-BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) 协议共享。其余部分的版权归属于各自的作者。
