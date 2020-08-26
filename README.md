@@ -29,6 +29,7 @@
 
 - [编译原理与技术](./projects/Compilers.md)
 - [操作系统](./projects/Operating-Systems.md)
+- [网络技术实践](./projects/Network-Practice.md)
 
 ### 协议
 
