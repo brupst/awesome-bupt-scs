@@ -16,6 +16,11 @@
 
 - [计算导论与程序设计课程设计](./projects/Introduction-to-Computing-and-Foundation-of-Programming.md)
 
+#### 本科二年级
+
+- [数据结构](./projects/Data-Structures.md)
+- [数据结构课程设计](./projects/Project-Laboratory-Algorithms-and-Data-Structures.md)
+
 ### 协议
 
 该项目由贡献者编写的部分以 [CC-BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) 协议共享。其余部分的版权归属于各自的作者。
