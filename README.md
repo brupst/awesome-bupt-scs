@@ -1,4 +1,4 @@
-# Awesome-BUPT-SCS
+# awesome-bupt-scs
 
 北京邮电大学计算机学院本科编程作业参考索引
 
