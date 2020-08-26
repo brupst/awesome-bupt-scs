@@ -32,6 +32,7 @@
 - [操作系统课程设计](./projects/Advanced-Labs-in-Operating-Systems.md)
 - [程序设计实践](./projects/Program-Practice.md)
 - [数据库系统原理](./projects/Database.md)
+- [数据库系统原理课程设计](./projects/Advanced-Labs-in-Database.md)
 - [软件工程](./projects/Software-Engineering.md)
 - [计算机系统结构](./projects/Computer-Architecture.md)
 - [现代交换原理](./projects/Switcher.md)
