@@ -22,7 +22,8 @@
 - [数据结构课程设计](./projects/Project-Laboratory-Algorithms-and-Data-Structures.md)
 - [计算机网络](./projects/Computer-Networks.md)
 - [计算机网络课程设计](./projects/Advanced-Labs-in-Computer-Networks.md)
-- [计算机组成原理课程设计](./projects/Advanced-Labs-in-Computer-Networks.md)
+- [计算机组成原理课程设计](./projects/Advanced-Labs-in-Computer-Architecture.md)
+- [面向对象程序设计实践（C++）](./projects/C++.md)
 
 ### 协议
 
