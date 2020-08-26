@@ -36,7 +36,7 @@
 - [Linux开发环境及应用](./projects/Linux.md)
 - [计算机系统结构](./projects/Computer-Architecture.md)
 - [现代交换原理](./projects/Switcher.md)
-- [](./projects/Mobile-Internet-Technology-and-Application.md)
+- [移动互联网技术及应用](./projects/Mobile-Internet-Technology-and-Application.md)
 
 ### 协议
 
