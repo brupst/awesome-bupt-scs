@@ -12,7 +12,7 @@
 
 * [BOT Man](https://github.com/BOT-Man-JL/BUPT-Projects/tree/master/1-2-Programming/Crazy-Train-Sim)
 
-### 银行排队模拟
+#### 银行排队模拟
 * [Forec](https://github.com/Forec/course-design)
 
 ### 2017 级 - 车间调度模拟
