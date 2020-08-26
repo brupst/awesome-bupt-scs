@@ -35,7 +35,7 @@
 - [计算机系统结构](./projects/Computer-Architecture.md)
 - [现代交换原理](./projects/Switcher.md)
 - [网络技术实践](./projects/Network-Practice.md)
-- [信息与知识获取](./project/Info-Know.md)
+- [信息与知识获取](./projects/Info-Know.md)
 - [Linux开发环境及应用](./projects/Linux.md)
 - [移动互联网技术及应用](./projects/Mobile-Internet-Technology-and-Application.md)
 
