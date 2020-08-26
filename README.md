@@ -28,6 +28,7 @@
 #### 本科三年级
 
 - [编译原理与技术](./projects/Compilers.md)
+- [操作系统](./projects/Operating-Systems.md)
 
 ### 协议
 
