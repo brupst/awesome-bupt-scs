@@ -23,12 +23,13 @@
 - [计算机网络](./projects/Computer-Networks.md)
 - [计算机网络课程设计](./projects/Advanced-Labs-in-Computer-Networks.md)
 - [计算机组成原理课程设计](./projects/Advanced-Labs-in-Computer-Architecture.md)
-- [面向对象程序设计实践（C++）](./projects/C++.md)
+- [面向对象程序设计实践 (C++)](./projects/C++.md)
 
 #### 本科三年级
 
 - [编译原理与技术](./projects/Compilers.md)
 - [操作系统](./projects/Operating-Systems.md)
+- [操作系统课程设计](./projects/Advanced-Labs-in-Operating-Systems.md)
 - [程序设计实践](./projects/Program-Practice.md)
 - [数据库系统原理](./projects/Database.md)
 - [软件工程](./projects/Software-Engineering.md)
@@ -36,7 +37,7 @@
 - [现代交换原理](./projects/Switcher.md)
 - [网络技术实践](./projects/Network-Practice.md)
 - [信息与知识获取](./projects/Info-Know.md)
-- [Linux开发环境及应用](./projects/Linux.md)
+- [Linux 开发环境及应用](./projects/Linux.md)
 - [移动互联网技术及应用](./projects/Mobile-Internet-Technology-and-Application.md)
 
 ### 协议

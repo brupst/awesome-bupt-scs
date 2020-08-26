@@ -1,6 +1,6 @@
 # 计算机网络
 
-### 数据链路层协议
+### 数据链路层协议 (C)
 
 - [BOT Man & Resurgam Akane](https://github.com/BOT-Man-JL/BUPT-Projects/tree/master/2-2-Computer-Network/Datalink%20Solution)
 - [Connor1996](https://github.com/Connor1996/BUPT-Projects/tree/master/Computer-Network-Labs/Lab1%20%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E5%8D%8F%E8%AE%AE)
