@@ -33,6 +33,7 @@
 - [数据库系统原理](./projects/Database.md)
 - [网络技术实践](./projects/Network-Practice.md)
 - [信息与知识获取](./project/Info-Know.md)
+- [Linux开发环境及应用](./projects/Linux.md)
 
 ### 协议
 
