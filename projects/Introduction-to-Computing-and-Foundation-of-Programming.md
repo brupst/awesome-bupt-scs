@@ -1,0 +1,37 @@
+# 计算导论与程序设计课程设计
+
+### 2017 级之前
+
+#### 电梯调度模拟
+
+* [Connor1996](https://github.com/Connor1996/BUPT-Projects/tree/master/C%E8%AF%AD%E8%A8%80/Elevator%20Control%20Simulation)
+* [Thesharing](https://github.com/Thesharing/school-projects#%E7%94%B5%E6%A2%AF%E6%A8%A1%E6%8B%9F%E7%A8%8B%E5%BA%8F)
+* [thiefuniverse](https://github.com/thiefuniverse/elevator)
+
+#### 火车调度模拟
+
+* [BOT Man](https://github.com/BOT-Man-JL/BUPT-Projects/tree/master/1-2-Programming/Crazy-Train-Sim)
+
+### 银行排队模拟
+* [Forec](https://github.com/Forec/course-design)
+
+### 2017 级 - 车间调度模拟
+
+* [name1e5s](https://github.com/name1e5s/JobShop)
+* [JmPotato](https://github.com/JmPotato/JobShop)
+* [TOMATOFAQ](https://github.com/TOMATOFAQ/GA_JOBSHOP)
+* [imtsuki & Celery](https://github.com/CeleryMoonLight/JobShop)
+* [Gaojianli](https://github.com/Gaojianli/jobshop)
+* [zqb-knight](https://github.com/zqb-knight/jobshop-)
+* [CCDV2](https://github.com/CCDV2/jobshop-schedule)
+* [Nihileon & JaciyWang](https://github.com/justagroup/JobShop)
+* [RinChanNOWWW](https://github.com/RinChanNOWWW/JobshopHomework)
+
+### 2018 级 - 订单派送&模拟外卖配单
+* [LCBHSStudent](https://github.com/LCBHSStudent/Deliver_BuptTermWork)
+* [liushiliushi](https://github.com/liushiliushi/BUPT1)
+* [wtl0822](https://github.com/wtl0822/Takeaway-System)
+
+### 2019 级 - 冯诺依曼式计算机CPU模拟
+
+* [LLeavesG](https://github.com/LLeavesG/BUPT-von-Neumann-CPUsimulation)
