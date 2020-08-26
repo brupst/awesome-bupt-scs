@@ -31,11 +31,12 @@
 - [操作系统](./projects/Operating-Systems.md)
 - [程序设计实践](./projects/Program-Practice.md)
 - [数据库系统原理](./projects/Database.md)
+- [软件工程](./projects/Software-Engineering.md)
+- [计算机系统结构](./projects/Computer-Architecture.md)
+- [现代交换原理](./projects/Switcher.md)
 - [网络技术实践](./projects/Network-Practice.md)
 - [信息与知识获取](./project/Info-Know.md)
 - [Linux开发环境及应用](./projects/Linux.md)
-- [计算机系统结构](./projects/Computer-Architecture.md)
-- [现代交换原理](./projects/Switcher.md)
 - [移动互联网技术及应用](./projects/Mobile-Internet-Technology-and-Application.md)
 
 ### 协议

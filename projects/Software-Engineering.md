@@ -1,0 +1,25 @@
+# 软件工程
+
+### ？级～2017级 - 分布式温控计费系统
+
+* [Alnitak-Antares](https://github.com/Alnitak-Antares/distributed-ac-system)
+* [BOT Man](https://github.com/BOT-Man-JL/BUPT-Projects/tree/master/3-2-Software-Engineering)
+* [ChenyuChen1](https://github.com/ChenyuChen1/hotel_A)
+* [Columbine21](https://github.com/Columbine21/air-system-frontend)
+* [FFFFFaraway](https://github.com/FFFFFaraway/BUPT-Distributed-Temperature-Control-System)
+* [Jason210314](https://github.com/Jason210314/BuptAirConditionerSystem)
+* [Resurgam-Akane](https://github.com/Resurgam-Akane/BUPT-SoftwareEngineering)
+* [Softwareengineering309d](https://github.com/Softwareengineering309d/BUPTACststem)
+* [bupt-SE-2020-310f](https://github.com/bupt-SE-2020-310f/dtcbs-310f)
+* [bupt1309SE](https://github.com/bupt1309SE/CentralAirSys)
+* [bupt2019se309d](https://github.com/bupt2019se309d/AirConditioner)
+* [imtsuki](https://github.com/imtsuki/aircon)
+* [joxon](https://github.com/joxon/aircond-server)
+* [lzy00codeforfun](https://github.com/lzy00codeforfun/DistributedAirConditioner)
+* [myWsq](https://github.com/myWsq/bupt-air-backend)
+* [name1e5s](https://github.com/kuso-kodo/acdc-new)
+* [pengshuai98](https://github.com/pengshuai98/Distributed-temperature-control-system-for-BUPT)
+* [protectione055](https://github.com/protectione055/BUPT-HOTEL-Air-condition-Billing-System)
+* [wangzitian0](https://github.com/wangzitian0/air-condition-system)
+* [zh-bupt](https://github.com/zh-bupt/AirConditioningSystem)
+* [zza1999](https://github.com/zza1999/Software-Engineering)
