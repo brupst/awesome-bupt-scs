@@ -21,6 +21,7 @@
 * [PotatoChipsNinja](https://github.com/PotatoChipsNinja/COVID-19-Travel-System)（Go & JavaScript & HTML & CSS）
 * [ZubinGou](https://github.com/ZubinGou/Travel-Emu) (C++)
 * [emgta](https://github.com/emgta/SimulateTravelSystem) (C++)
+* [Linyxus](https://github.com/linyxus/travel-agency) (C++ & Python & HTML & CSS & JavaScript)
 * [liushiliushi](https://github.com/liushiliushi/BUPT-TravelSystem) (C++)
 * [whx123abc](https://github.com/whx123abc/Journey) (C++)
 * [wtl0822](https://github.com/wtl0822/Travel-Simulation) (C++)
