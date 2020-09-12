@@ -6,6 +6,8 @@
 
 该项目旨在收集 GitHub 上北京邮电大学计算机学院同学们已开源的课程编程作业，其目的在于为以后的学弟学妹们提供一个参考，方便快速入门，写出更加优秀的代码。
 
+[北京邮电大学计算机学院选修课指北](https://github.com/Oneliey/BUPT-SCS-Courses)，**欢迎同学们 Star 和 PR**。
+
 如果您希望将自己的项目添加到列表中，请直接发起 [Pull Requests](https://github.com/name1e5s/Awesome-BUPT-SCS/pulls)。
 
 **注意⚠️：请不要把该索引中的任何项目代码作为作业提交**
