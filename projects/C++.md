@@ -13,7 +13,7 @@
 * [RainING Wong](https://github.com/RainING1947/Pokemon)
 * [luohaoz](https://github.com/luohaoz/pocket-man)
 * [mkj13146](https://github.com/mkj13146/Pokemon)
-* [wzekin](https://github.com/wzekin/Pok-mon)
+* [wzekin](https://github.com/wzekin/BUPT-Projects/tree/master/C++)
 
 ### 2017 级 - 单词消除游戏
 

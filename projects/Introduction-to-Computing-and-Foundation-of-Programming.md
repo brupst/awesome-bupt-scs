@@ -32,6 +32,7 @@
 * [LCBHSStudent](https://github.com/LCBHSStudent/Deliver_BuptTermWork)
 * [liushiliushi](https://github.com/liushiliushi/BUPT1)
 * [wtl0822](https://github.com/wtl0822/Takeaway-System)
+* [wzekin](https://github.com/wzekin/BUPT-Projects/tree/master/C)
 
 ### 2019 级 - 冯诺依曼式计算机CPU模拟 (C/C++)
 
