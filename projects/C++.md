@@ -4,7 +4,7 @@
 
 * [name1e5s](https://github.com/name1e5s/playground/tree/master/OOP_in_C%2B%2B_HomeWork)
 
-### ？级、2018 级 - 宠物小精灵对战游戏
+### 2014级、2018 级 - 宠物小精灵对战游戏
 
 * [Anjiansan](https://github.com/Anjiansan/Pokemon)
 * [BOT Man](https://github.com/BOT-Man-JL/BUPT-Projects/blob/master/3-1-Pokemon)
