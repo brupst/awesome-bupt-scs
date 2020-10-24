@@ -26,3 +26,4 @@
 * [9646516](https://github.com/9646516/DNS.rs) (Rust)
 * [imtsuki](https://github.com/imtsuki/EchoDNS) (Go)
 * [tabVersion](https://github.com/tabVersion/DNSRelay) (Go)
+* [Linyxus](https://github.com/Linyxus/YaDNS) (C)
