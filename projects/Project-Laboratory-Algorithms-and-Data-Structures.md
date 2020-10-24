@@ -25,3 +25,5 @@
 * [liushiliushi](https://github.com/liushiliushi/BUPT-TravelSystem) (C++)
 * [whx123abc](https://github.com/whx123abc/Journey) (C++)
 * [wtl0822](https://github.com/wtl0822/Travel-Simulation) (C++)
+* [wzekin](https://github.com/wzekin/BUPT-Projects/tree/master/Data-Structure) (Rust & JavaScript & HTML & CSS)
+* [Makiras](https://github.com/Makiras/bupt_datastructure_design) (C++ & vue)
