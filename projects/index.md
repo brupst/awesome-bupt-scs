@@ -21,6 +21,7 @@
 - [数据结构](Data-Structures.md)
 - [数据结构课程设计](Project-Laboratory-Algorithms-and-Data-Structures.md)
 - [计算机网络](Computer-Networks.md)
+- [计算机组成原理](Computer-Organization.md)
 - [计算机网络课程设计](Advanced-Labs-in-Computer-Networks.md)
 - [计算机组成原理课程设计](Advanced-Labs-in-Computer-Architecture.md)
 - [面向对象程序设计实践 (C++)](C++.md)
