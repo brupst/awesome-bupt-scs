@@ -32,3 +32,4 @@
 * [Linyxus](https://github.com/Linyxus/YaDNS) (C)
 * [wzekin](https://github.com/tabVersion/DNSRelay) (C)
 * [Makiras](https://github.com/Makiras/makiras_dns_refact) (C)
+* [ZubinGou](https://github.com/ZubinGou/Simple-DNS-Relay) (C)
