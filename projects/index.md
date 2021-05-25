@@ -28,6 +28,7 @@
 #### 本科三年级
 
 - [编译原理与技术](Compilers.md)
+- [编译原理课程设计](Advanced-Labs-in-Compilers.md)
 - [操作系统](Operating-Systems.md)
 - [操作系统课程设计](Advanced-Labs-in-Operating-Systems.md)
 - [程序设计实践](Program-Practice.md)
