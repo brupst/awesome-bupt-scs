@@ -30,6 +30,7 @@
 #### 本科三年级
 
 - [编译原理与技术](./projects/Compilers.md)
+- [编译原理课程设计](./projects/Advanced-Labs-in-Compilers.md)
 - [操作系统](./projects/Operating-Systems.md)
 - [操作系统课程设计](./projects/Advanced-Labs-in-Operating-Systems.md)
 - [程序设计实践](./projects/Program-Practice.md)
