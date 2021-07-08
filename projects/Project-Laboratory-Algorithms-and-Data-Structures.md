@@ -27,3 +27,6 @@
 * [wtl0822](https://github.com/wtl0822/Travel-Simulation) (C++)
 * [wzekin](https://github.com/wzekin/BUPT-Projects/tree/master/Data-Structure) (Rust & JavaScript & HTML & CSS)
 * [Makiras](https://github.com/Makiras/bupt_datastructure_design) (C++ & vue)
+
+### 2019 级 校园导览系统
+* [Hyiker](https://github.com/Hyiker/CampusNavigation) (C++ & Phaser)
