@@ -9,6 +9,7 @@
 * [Xuanyue Yang](https://github.com/YangXuanyue/Compiler) (C++)
 * [name1e5s](https://github.com/name1e5s/cLex) (C++)
 * [imtsuki](https://github.com/imtsuki/clex) (Rust)
+* [StephenYuan7](https://github.com/StephenYuan7/compiler_by_stphenyuan) (C)
 
 ### 语法分析
 
@@ -18,6 +19,7 @@
 * [Xuanyue Yang](https://github.com/YangXuanyue/Compiler) (C++)
 * [name1e5s](https://github.com/name1e5s/playground/tree/master/FuckingCalculator) (Python)
 * [imtsuki](https://github.com/imtsuki/lr1-parser) (Rust)
+* [StephenYuan7](https://github.com/StephenYuan7/parsing_by_StephenYuan) (C)
 
 ### 语义分析
 
