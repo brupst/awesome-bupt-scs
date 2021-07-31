@@ -20,10 +20,10 @@
 * [CCDV2](https://github.com/CCDV2/jobshop-schedule)
 * [Gaojianli](https://github.com/Gaojianli/jobshop)
 * [JmPotato](https://github.com/JmPotato/JobShop)
-* [Nihileon & JaciyWang](https://github.com/justagroup/JobShop)
+* [Nihileon &amp; JaciyWang](https://github.com/justagroup/JobShop)
 * [RinChanNOWWW](https://github.com/RinChanNOWWW/JobshopHomework)
 * [TOMATOFAQ](https://github.com/TOMATOFAQ/GA_JOBSHOP)
-* [imtsuki & Celery](https://github.com/CeleryMoonLight/JobShop)
+* [imtsuki &amp; Celery](https://github.com/CeleryMoonLight/JobShop)
 * [name1e5s](https://github.com/name1e5s/JobShop)
 * [zqb-knight](https://github.com/zqb-knight/jobshop-)
 
@@ -43,4 +43,4 @@
 ### 2020 级 - 冯诺依曼式计算机CPU模拟 (C/C++)
 
 - [KernelErr](https://github.com/KernelErr/BUPT-CPU-Simulator)
-
+- [YaoYu0101](https://github.com/YaoYu0101/BUPT-vonNeumann-Simulator)
