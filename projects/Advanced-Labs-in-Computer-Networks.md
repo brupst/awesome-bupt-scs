@@ -34,4 +34,5 @@
 * [Makiras](https://github.com/Makiras/makiras_dns_refact) (C)
 * [ZubinGou](https://github.com/ZubinGou/Simple-DNS-Relay) (C)
 * [xqmmcqs](https://github.com/xqmmcqs/dnsr) (C)
+* [chunkitlau](https://github.com/chunkitlau/dns_relay) (C)
 
