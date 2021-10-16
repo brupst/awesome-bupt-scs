@@ -21,6 +21,7 @@
 * [name1e5s](https://github.com/name1e5s/playground/tree/master/FuckingCalculator) (Python)
 * [imtsuki](https://github.com/imtsuki/lr1-parser) (Rust)
 * [StephenYuan7](https://github.com/StephenYuan7/parsing_by_StephenYuan) (C)
+* [ayamir](https://github.com/ayamir/lr) (Go)
 
 ### 语义分析
 

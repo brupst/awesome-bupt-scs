@@ -31,4 +31,5 @@
 ### 2019 级 - 电商交易平台
 
 - [xqmmcqs](https://github.com/xqmmcqs/CPP_Work)
+- [chunkitlau](https://github.com/chunkitlau/E-commerceTradingPlatformQT)
 
