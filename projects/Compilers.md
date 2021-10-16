@@ -10,6 +10,7 @@
 * [name1e5s](https://github.com/name1e5s/cLex) (C++)
 * [imtsuki](https://github.com/imtsuki/clex) (Rust)
 * [StephenYuan7](https://github.com/StephenYuan7/compiler_by_stphenyuan) (C)
+* [gkkeys](https://github.com/gkkeys/alex) (C++)
 
 ### 语法分析
 
