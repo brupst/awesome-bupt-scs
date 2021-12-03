@@ -22,6 +22,7 @@
 * [imtsuki](https://github.com/imtsuki/lr1-parser) (Rust)
 * [StephenYuan7](https://github.com/StephenYuan7/parsing_by_StephenYuan) (C)
 * [ayamir](https://github.com/ayamir/lr) (Go)
+* [gkkeys](https://github.com/gkkeys/lr1-parser) (Rust)
 
 ### 语义分析
 
