@@ -16,6 +16,7 @@
 
 #### 本科一年级
 
+- [计算导论与程序设计上机实验](./projects/Introduction-to-Computing-and-Foundation-of-Programming-Exp.md)
 - [计算导论与程序设计课程设计](./projects/Introduction-to-Computing-and-Foundation-of-Programming.md)
 
 #### 本科二年级
