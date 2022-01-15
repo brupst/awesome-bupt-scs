@@ -11,6 +11,7 @@
 * [imtsuki](https://github.com/imtsuki/clex) (Rust)
 * [StephenYuan7](https://github.com/StephenYuan7/compiler_by_stphenyuan) (C)
 * [gkkeys](https://github.com/gkkeys/alex) (C++)
+* [Jray](https://github.com/Jraaay/LexParser) (C++)
 
 ### 语法分析
 
@@ -23,6 +24,7 @@
 * [StephenYuan7](https://github.com/StephenYuan7/parsing_by_StephenYuan) (C)
 * [ayamir](https://github.com/ayamir/lr) (Go)
 * [gkkeys](https://github.com/gkkeys/lr1-parser) (Rust)
+* [Jray](https://github.com/Jraaay/SyntaxAnalyzer) (C++)
 
 ### 语义分析
 
