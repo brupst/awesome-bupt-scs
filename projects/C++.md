@@ -33,3 +33,4 @@
 - [xqmmcqs](https://github.com/xqmmcqs/CPP_Work)
 - [chunkitlau](https://github.com/chunkitlau/E-commerceTradingPlatformQT)
 - [wjj710](https://github.com/wjj710/E-commerce-platform)
+- [Jray](https://github.com/Jraaay/E-Commerce-Platform/tree/Topic_3)
