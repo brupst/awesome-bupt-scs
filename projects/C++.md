@@ -30,7 +30,7 @@
 
 ### 2019 级 - 电商交易平台
 
-- [xqmmcqs](https://github.com/xqmmcqs/CPP_Work)
+- [xqmmcqs](https://github.com/xqmmcqs/BUPT-Projects/tree/master/4-2-object-oriented-programming-design-and-practice-C%2B%2B)
 - [chunkitlau](https://github.com/chunkitlau/E-commerceTradingPlatformQT)
 - [wjj710](https://github.com/wjj710/E-commerce-platform)
 - [Jray](https://github.com/Jraaay/E-Commerce-Platform/tree/Topic_3)
