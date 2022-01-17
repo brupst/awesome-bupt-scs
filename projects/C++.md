@@ -34,3 +34,4 @@
 - [chunkitlau](https://github.com/chunkitlau/E-commerceTradingPlatformQT)
 - [wjj710](https://github.com/wjj710/E-commerce-platform)
 - [Jray](https://github.com/Jraaay/E-Commerce-Platform/tree/Topic_3)
+- [xyToki](https://github.com/tokiInBUPT/xshop)
