@@ -40,6 +40,7 @@
 * [LLeavesG](https://github.com/LLeavesG/BUPT-von-Neumann-CPUsimulation)
 * [Dawsen64](https://github.com/Dawsen64/computer-CPU-simulator)
 * [Jray](https://github.com/Jraaay/CPUemulator)
+* [xyToki](https://github.com/tokiInBUPT/TokiCPUEMU) 以及 [指令生成器](https://xylog.cn/2020/05/20/bupt-scs-cpuemu.html)
 
 ### 2020 级 - 冯诺依曼式计算机CPU模拟 (C/C++)
 

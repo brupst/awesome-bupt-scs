@@ -31,3 +31,4 @@
 ### 2019 级 校园导览系统
 * [Hyiker](https://github.com/Hyiker/CampusNavigation) (C++ & Phaser)
 * [Chunkitlau & Ferris Chi & Gao Keyong](https://github.com/chunkitlau/DatastructureNavigationSystem) (Javascript & Vue.js & Node.js & HTML & CSS)
+* [xyToki & Jray & P](https://github.com/tokiInBUPT/umap): (Javascript & Vue.js)

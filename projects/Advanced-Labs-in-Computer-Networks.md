@@ -36,3 +36,4 @@
 * [xqmmcqs](https://github.com/xqmmcqs/dns-relay) (C)
 * [gkkeys](https://github.com/gkkeys/dns) (C)
 * [chunkitlau](https://github.com/chunkitlau/dns_relay) (C)
+* [xyToki & Jray & CN_ZYK](https://github.com/tokiInBUPT/dnsrd) (C)
