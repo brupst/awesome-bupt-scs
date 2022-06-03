@@ -46,3 +46,7 @@
 
 - [KernelErr](https://github.com/KernelErr/BUPT-CPU-Simulator)
 - [YaoYu0101](https://github.com/YaoYu0101/BUPT-vonNeumann-Simulator)
+
+### 2021级 - 自动驾驶公交车调度系统（C/C++）
+
+- [AryCra07](https://github.com/AryCra07/busDispatchingSystem)
