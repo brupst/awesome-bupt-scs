@@ -12,6 +12,7 @@
 * [StephenYuan7](https://github.com/StephenYuan7/compiler_by_stphenyuan) (C)
 * [gkkeys](https://github.com/gkkeys/alex) (C++)
 * [Jray](https://github.com/Jraaay/LexParser) (C++)
+* [Sduby](https://github.com/Sduby22/compiling_hw/tree/main/lab1-clexer) (C & flex)
 
 ### 语法分析
 
@@ -25,6 +26,7 @@
 * [ayamir](https://github.com/ayamir/lr) (Go)
 * [gkkeys](https://github.com/gkkeys/lr1-parser) (Rust)
 * [Jray](https://github.com/Jraaay/SyntaxAnalyzer) (C++)
+* [Sduby](https://github.com/Sduby22/compiling_hw/tree/main/lab2-yacc) (C)
 
 ### 语义分析
 
