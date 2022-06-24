@@ -4,8 +4,8 @@
 
 ### NFA 到 DFA 的转化
 
-- [livrth](https://github.com/livrth/NFA2DFA)
+- [livrth](https://github.com/livrth/NFA2DFA) (C++)
 
 ### 设计上下文无关文法的变换算法
 
-- [livrth](https://github.com/livrth/CFG-Simplification)
+- [livrth](https://github.com/livrth/CFG-Simplification) (C++)
