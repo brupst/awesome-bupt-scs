@@ -28,7 +28,10 @@
 * [wzekin](https://github.com/wzekin/BUPT-Projects/tree/master/Data-Structure) (Rust & JavaScript & HTML & CSS)
 * [Makiras](https://github.com/Makiras/bupt_datastructure_design) (C++ & vue)
 
-### 2019 级 校园导览系统
+### 2019 级 - 校园导览系统
 * [Hyiker](https://github.com/Hyiker/CampusNavigation) (C++ & Phaser)
 * [Chunkitlau & Ferris Chi & Gao Keyong](https://github.com/chunkitlau/DatastructureNavigationSystem) (Javascript & Vue.js & Node.js & HTML & CSS)
 * [xyToki & Jray & P](https://github.com/tokiInBUPT/umap): (Javascript & Vue.js)
+
+### 2020 级 - 线下课程辅助系统
+* [goverclock](https://github.com/goverclock/BUPT-Projects-Public/tree/main/DS-curriculum-design) (C++ & Qt)
