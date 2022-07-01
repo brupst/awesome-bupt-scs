@@ -37,6 +37,6 @@
 - [xyToki](https://github.com/tokiInBUPT/xshop)
 - [Sduby](https://github.com/Sduby22/cpp-emarket)
 
-### 2020 级 - 物流管理平台设计
+### 2020 级 - 物流管理平台
 
 - [goverclock](https://github.com/goverclock/BUPT-Projects-Public/tree/main/express_manager)
