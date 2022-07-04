@@ -35,3 +35,4 @@
 
 ### 2020 级 - 线下课程辅助系统
 * [goverclock](https://github.com/goverclock/BUPT-Projects-Public/tree/main/DS-curriculum-design) (C++ & Qt)
+* [bupt_assist](https://github.com/FkerYJ/bupt_assist)(Python &Typescript )
