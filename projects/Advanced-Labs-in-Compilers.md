@@ -8,3 +8,4 @@
 ## 2019级
 
 - [xqmmcqs](https://github.com/xqmmcqs/s1mple-compiler) (ANTLR4 & LLVM, Pascal-S 编译器)
+- [Jray & Ellia-TT & ZoeYu-blabla & XxxxYi & CN-zhouyk & xytoki](https://github.com/Jraaay/pascal-s-language-compiler) (Python & PLY, Pascal-S 编译器)

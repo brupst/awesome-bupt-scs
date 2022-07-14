@@ -24,3 +24,7 @@
 * [zza1999](https://github.com/zza1999/Software-Engineering) (Python & JavaScript & HTML & CSS)
 * [JmPotato](https://github.com/JmPotato/DCTCS) (Python & TypeScript/JavaScript & CSS)
 * [Gaojianli](https://github.com/Gaojianli/software-engineering-web-backend/) (C# & ASP .NET Core)
+
+### 2019级 - 智能充电桩调度计费系统
+
+* [Jray & ZoeYu-blabla & Myasque & jydeppt & DOSkanya & BUPT-hqc](https://github.com/Jraaay/Charging-in-BUPT) (Python & JavaScript & HTML & CSS)

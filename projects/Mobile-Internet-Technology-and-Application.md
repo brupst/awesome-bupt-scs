@@ -17,3 +17,7 @@
 ### 2018 级
 
 * [TravisRoad](https://github.com/TravisRoad/Chwazi) (Flutter)
+
+### 2019 级
+
+* [Jray](https://github.com/Jraaay/DDL-Fighter-App-Ver) (Flutter)
