@@ -28,3 +28,4 @@
 ### 2019级 - 智能充电桩调度计费系统
 
 * [Jray & ZoeYu-blabla & Myasque & jydeppt & DOSkanya & BUPT-hqc](https://github.com/Jraaay/Charging-in-BUPT) (Python & JavaScript & HTML & CSS)
+* [NoamChi & TomsPillow & 4_buddies_no_account](https://github.com/PopChicken/acss_repo) (all in python: Django & PySide6)
