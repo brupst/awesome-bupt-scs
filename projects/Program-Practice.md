@@ -16,3 +16,4 @@
 * [xqmmcqs](https://github.com/xqmmcqs/robot-DSL)：(Python)
 * [xyToki](https://github.com/tokiInBUPT/talkbot): (Vue.js & Typescript)
 * [Sduby](https://github.com/Sduby22/PP_hw): (Python)
+* [NoamChi](https://github.com/PopChicken/lab.dsl-chatbot): (Django & Vue.js)
