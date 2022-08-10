@@ -40,3 +40,4 @@
 ### 2020 级 - 物流管理平台
 
 - [goverclock](https://github.com/goverclock/BUPT-Projects-Public/tree/main/express_manager)
+- [soothsayer](https://github.com/Adam-Teng/delivery-system/)
