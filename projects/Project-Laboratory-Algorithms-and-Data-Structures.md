@@ -16,7 +16,7 @@
 
 ### 2018 级 - COVID19 大流行背景下的旅行模拟系统
 
-* [FAWC-bupt](https://github.com/FAWC-bupt/Course-design-of-data-structure) (C#)
+* [FAWC438](https://github.com/FAWC438/Epidemic-Affected-Travelers) (C#)
 * [Jerison](https://github.com/Jerison/Covid-Travel-System) (C)
 * [PotatoChipsNinja](https://github.com/PotatoChipsNinja/COVID-19-Travel-System)（Go & JavaScript & HTML & CSS）
 * [ZubinGou](https://github.com/ZubinGou/Travel-Emu) (C++)

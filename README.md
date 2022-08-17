@@ -30,6 +30,7 @@
 - [计算机网络课程设计](./projects/Advanced-Labs-in-Computer-Networks.md)
 - [计算机组成原理课程设计](./projects/Advanced-Labs-in-Computer-Architecture.md)
 - [面向对象程序设计实践 (C++)](./projects/C++.md)
+- [面向对象程序设计实践 (Java)](./projects/Java.md)
 - [形式语言与自动机](./projects/Formal-Language.md)
 
 #### 本科三年级
