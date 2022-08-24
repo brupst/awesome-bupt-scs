@@ -5,7 +5,7 @@
 ### NFA 到 DFA 的转化
 
 - [livrth](https://github.com/livrth/NFA2DFA) (C++)
-- [1475505 & archester-250](https://github.com/1475505/NFA2DFA)
+- [1475505 & archester-250](https://github.com/1475505/NFA2DFA) (Python)
 
 ### 设计上下文无关文法的变换算法
 
