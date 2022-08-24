@@ -37,3 +37,4 @@
 * [goverclock](https://github.com/goverclock/BUPT-Projects-Public/tree/main/DS-curriculum-design) (C++ & Qt)
 * [bupt_assist](https://github.com/FkerYJ/bupt_assist)(Python &Typescript )
 * [soothsayer](https://github.com/Adam-Teng/datastructure-design) (Vue & Typescript & Javascript)
+* [archester-250 & 1475505](https://github.com/archester-250/Course_Auxiliary_System_QT) (C++ & QT)
