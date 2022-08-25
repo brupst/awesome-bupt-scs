@@ -7,3 +7,4 @@
 ### 2020 级 - 基于Swing的图书商城
 
 * [Hyiker](https://github.com/Hyiker/BookShop)
+* [1475505](https://github.com/1475505/Awesome-BUPT-eBookStore)
