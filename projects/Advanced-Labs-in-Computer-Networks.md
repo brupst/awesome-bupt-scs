@@ -38,3 +38,4 @@
 * [chunkitlau](https://github.com/chunkitlau/dns_relay) (C)
 * [xyToki & Jray & CN_ZYK](https://github.com/tokiInBUPT/dnsrd) (C)
 * [goverclock](https://github.com/goverclock/BUPT-Projects-Public/tree/main/dnsrelay) (C)
+* [1475505 & archester-250](https://github.com/1475505/AwesomeDNS) (C)
