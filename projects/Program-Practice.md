@@ -10,10 +10,11 @@
 * [ZHANGWENTAI](https://github.com/ZHANGWENTAI/Sudoku-frontend)：在线数独游戏（前端） (Node.js & HTML & CSS)
 
 
-### 2019 级 - 领域特定脚本语言的解释器
+### 2019 级, 2020级 - 领域特定脚本语言的解释器
 
 * [Jray](https://github.com/Jraaay/domain-specific-scripting-language-interpreter-js)：(JavaScript & HTML & CSS)
 * [xqmmcqs](https://github.com/xqmmcqs/robot-DSL)：(Python)
 * [xyToki](https://github.com/tokiInBUPT/talkbot): (Vue.js & Typescript)
 * [Sduby](https://github.com/Sduby22/PP_hw): (Python)
 * [NoamChi](https://github.com/PopChicken/lab.dsl-chatbot): (Django & Vue.js)
+* [soothsayer](https://github.com/Adam-Teng/robot-dsl): (rust)
