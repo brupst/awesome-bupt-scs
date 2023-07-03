@@ -52,6 +52,7 @@
 - [移动互联网技术及应用](./projects/Mobile-Internet-Technology-and-Application.md)
 - [自然语言处理](./projects/NLP.md)
 - [Web开发技术](./projects/Web.md)
+- [数据仓库与数据挖掘](./projects/Data-War-and-Data-Mining.md)
 
 #### 其它
 
