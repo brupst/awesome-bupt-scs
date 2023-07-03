@@ -14,7 +14,7 @@
 - [Direktor799](https://github.com/Direktor799/rusted_os) (Rust)
 - [ruiqurm & wjj710 & weikeduo1 & 12345ljx & zertow & The3yx](https://github.com/ruiqurm/os-simulator) (C++)
 
-###2020级 - 小实验大杂烩版本
+### 2020级 - 小实验大杂烩版本
 
 - [LiuL & archester-250 & buptttly & HUANG Jiayu & Re-B](https://xydchcnnf8.feishu.cn/drive/folder/fldcnNV1ELxsM2bSJ3t211Zu0sb)
 
