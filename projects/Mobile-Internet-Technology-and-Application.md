@@ -21,3 +21,7 @@
 ### 2019 级
 
 * [Jray](https://github.com/Jraaay/DDL-Fighter-App-Ver) (Flutter)
+
+### 2020级
+
+- [Term6-Android](https://github.com/Cowboy-Spike-Spiegel/Term6-Android) (Java)

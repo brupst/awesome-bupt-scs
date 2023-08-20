@@ -45,6 +45,7 @@
 
 ### 2020 级 - 冯诺依曼式计算机CPU模拟 (C/C++)
 
+- [Term2-von-Neumann-CPU)](https://github.com/Cowboy-Spike-Spiegel/Term2-von-Neumann-CPU)
 - [KernelErr](https://github.com/KernelErr/BUPT-CPU-Simulator)
 - [YaoYu0101](https://github.com/YaoYu0101/BUPT-vonNeumann-Simulator)
 

@@ -33,9 +33,12 @@
 - [面向对象程序设计实践 (Java)](./projects/Java.md)
 - [形式语言与自动机](./projects/Formal-Language.md)
 - [数据科学导论](./projects/Data-Science.md)
+- [CSAPP](./projects/CSAPP.md)
+- [数字逻辑课程设计](./projects/Digital-Logic.md)
 
 #### 本科三年级
 
+- [算法设计与分析](./projects/Alogrithm.md)
 - [编译原理与技术](./projects/Compilers.md)
 - [编译原理课程设计](./projects/Advanced-Labs-in-Compilers.md)
 - [操作系统](./projects/Operating-Systems.md)
@@ -52,6 +55,7 @@
 - [移动互联网技术及应用](./projects/Mobile-Internet-Technology-and-Application.md)
 - [自然语言处理](./projects/NLP.md)
 - [Web开发技术](./projects/Web.md)
+- [Python程序设计实践](./projects/Python.md)
 
 #### 其它
 
