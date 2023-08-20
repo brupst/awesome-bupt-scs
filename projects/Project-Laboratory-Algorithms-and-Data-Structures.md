@@ -34,6 +34,8 @@
 * [xyToki & Jray & P](https://github.com/tokiInBUPT/umap): (Javascript & Vue.js)
 
 ### 2020 级 - 线下课程辅助系统
+
+* [Term4-Data-Structure-Lab](https://github.com/Cowboy-Spike-Spiegel/Term4-Data-Structure-Lab) (C++ & Qt)
 * [goverclock](https://github.com/goverclock/BUPT-Projects-Public/tree/main/DS-curriculum-design) (C++ & Qt)
 * [bupt_assist](https://github.com/FkerYJ/bupt_assist)(Python &Typescript )
 * [soothsayer](https://github.com/Adam-Teng/datastructure-design) (Vue & Typescript & Javascript)

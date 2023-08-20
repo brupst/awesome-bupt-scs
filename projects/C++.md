@@ -39,6 +39,7 @@
 
 ### 2020 级 - 物流管理平台
 
+- [Term4-CPP](https://github.com/Cowboy-Spike-Spiegel/Term4-CPP) (期中实验代码+期末物流管理平台)
 - [goverclock](https://github.com/goverclock/BUPT-Projects-Public/tree/main/express_manager)
 - [soothsayer](https://github.com/Adam-Teng/delivery-system/)
 - [P0wer](https://github.com/P0werWeirdo/CPP-BigHomework)

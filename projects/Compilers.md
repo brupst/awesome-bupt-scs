@@ -2,6 +2,7 @@
 
 ### 词法分析
 
+* [Term5-Compile/1](https://github.com/Cowboy-Spike-Spiegel/Term5-Compile/tree/main/1) (C & flex)
 * [Connor1996](https://github.com/Connor1996/BUPT-Projects/tree/master/LexParse) (C++)
 * [Jason210314](https://github.com/Jason210314/LexerAndParser) (C++)
 * [Resurgam Akane](https://github.com/Resurgam-Akane/Compilers-Principles/tree/master/Lexical%20Analysis) (C++)
@@ -16,6 +17,7 @@
 
 ### 语法分析
 
+* [Term5-Compile/2](https://github.com/Cowboy-Spike-Spiegel/Term5-Compile/tree/main/2) (C++ & flex)
 * [Connor1996](https://github.com/Connor1996/BUPT-Projects/tree/master/SyntaxParser) (C++)
 * [Resurgam Akane](https://github.com/Resurgam-Akane/Compilers-Principles/tree/master/Grammer%20Analysis) (C++ & Python)
 * [Thesharing](https://github.com/Thesharing/school-projects/tree/master/Homework/Compile%20Principle/%E8%AF%AD%E6%B3%95%E5%88%86%E6%9E%90) (C)

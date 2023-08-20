@@ -4,6 +4,7 @@
 
 ### NFA 到 DFA 的转化
 
+- [Term4-Formal-Languages-and-Automata](https://github.com/Cowboy-Spike-Spiegel/Term4-Formal-Languages-and-Automata) (C++)
 - [livrth](https://github.com/livrth/NFA2DFA) (C++)
 - [1475505 & archester-250](https://github.com/1475505/NFA2DFA) (Python)
 

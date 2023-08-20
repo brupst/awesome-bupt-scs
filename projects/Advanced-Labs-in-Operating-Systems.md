@@ -13,3 +13,7 @@
 
 - [Direktor799](https://github.com/Direktor799/rusted_os) (Rust)
 - [ruiqurm & wjj710 & weikeduo1 & 12345ljx & zertow & The3yx](https://github.com/ruiqurm/os-simulator) (C++)
+
+### 2020级
+
+- [Term6-OS-Lab](https://github.com/Cowboy-Spike-Spiegel/Term6-OS-Lab) (Python)

@@ -31,3 +31,7 @@
 * [Jray & ZoeYu-blabla & Myasque & jydeppt & DOSkanya & BUPT-hqc](https://github.com/Jraaay/Charging-in-BUPT) (Python & JavaScript & HTML & CSS)
 * [NoamChi & TomsPillow & 4_buddies_no_account](https://github.com/PopChicken/acss_repo) (all in python: Django & PySide6)
 * [wjj710 & hkRuan & asapple & MuchiBai & Tony Zhao & Parallel23333](https://github.com/wjj710/Charging-Pile-System) (all in C++: Qt & WinAPI)
+
+### 2020级 - 智能充电桩调度计费系统
+
+- [Term6-Software-Engineering](https://github.com/Cowboy-Spike-Spiegel/Term6-Software-Engineering) (Vue & Java-Android & Go & SQL)

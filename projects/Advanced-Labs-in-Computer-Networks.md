@@ -39,3 +39,4 @@
 * [xyToki & Jray & CN_ZYK](https://github.com/tokiInBUPT/dnsrd) (C)
 * [goverclock](https://github.com/goverclock/BUPT-Projects-Public/tree/main/dnsrelay) (C)
 * [1475505 & archester-250](https://github.com/1475505/AwesomeDNS) (C)
+* [Term4-Computer-Network](https://github.com/Cowboy-Spike-Spiegel/Term4-Computer-Network) (C)
