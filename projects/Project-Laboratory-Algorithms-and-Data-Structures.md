@@ -38,3 +38,6 @@
 * [bupt_assist](https://github.com/FkerYJ/bupt_assist)(Python &Typescript )
 * [soothsayer](https://github.com/Adam-Teng/datastructure-design) (Vue & Typescript & Javascript)
 * [archester-250 & 1475505 & buptttly](https://github.com/archester-250/Course_Auxiliary_System_QT) (C++ & QT)
+
+### 2021 级 - 学生日程管理系统
+* [renfei147 & LinesHogan & myboker](https://github.com/renfei147/datastructure_design)

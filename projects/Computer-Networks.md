@@ -11,7 +11,9 @@
 - [RiversJin & Makiras](https://github.com/Makiras/CSN-Lab-1)
 - [Sduby](https://github.com/Sduby22/Lab1-Linux)
 - [goverclock](https://github.com/goverclock/BUPT-Projects-Public/tree/main/datalink)
+- [renfei147](https://github.com/renfei147/bupt_work_collection/tree/main/computer_network/%E5%AE%9E%E9%AA%8C%E4%B8%80%EF%BC%9A%E9%93%BE%E8%B7%AF%E5%B1%82%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E5%8D%8F%E8%AE%AE%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0)
 
 ### WireShark 抓包实验
 
 - [name1e5s](https://github.com/name1e5s/playground/tree/master/Computer%20Network%20Wireshark%20Lab)
+- [renfei147](https://github.com/renfei147/bupt_work_collection/blob/main/computer_network/%E5%AE%9E%E9%AA%8C%E4%BA%8C%20Wireshark%E6%8A%93%E5%8C%85%E5%88%86%E6%9E%90.pdf)
