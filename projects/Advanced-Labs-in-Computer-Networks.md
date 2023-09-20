@@ -2,7 +2,7 @@
 
 > 2018级开始，计算机网络课程设计要求仅能使用C语言
 
-### 2016(or early)级 ～ 2020 级 - DNS 中继服务器
+### 2016(or early)级 ～ 2021 级 - DNS 中继服务器
 
 * [ApinePro](https://github.com/ApinePro/DNS-Relay-Server) (Python)
 * [Bamboo0206](https://github.com/Bamboo0206/DNS_Relay) (C/C++)
@@ -40,3 +40,4 @@
 * [goverclock](https://github.com/goverclock/BUPT-Projects-Public/tree/main/dnsrelay) (C)
 * [1475505 & archester-250](https://github.com/1475505/AwesomeDNS) (C)
 * [PostGuard](https://github.com/post-guard/post_dns) (C)
+* [angrychow & phoenix-cat](https://github.com/angrychow/computer-network-course-design) (C)
