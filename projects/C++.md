@@ -15,7 +15,7 @@
 * [mkj13146](https://github.com/mkj13146/Pokemon)
 * [wzekin](https://github.com/wzekin/BUPT-Projects/tree/master/C++)
 
-### 2017 级 - 单词消除游戏
+### 2017级、2021级 - 单词消除游戏
 
 * [666WXY666](https://github.com/666WXY666/WordGame)
 * [Bamboo0206](https://github.com/Bamboo0206/Game__Word_Match)
@@ -27,6 +27,7 @@
 * [name1e5s](https://github.com/name1e5s/MemoryGame)
 * [pengshuai98](https://github.com/pengshuai98/QT-Cplusplus-realizes-Word-Elimination-Game)
 * [zjpeng957](https://github.com/zjpeng957/wordGame-server)
+* [ProgrameThinking](https://github.com/ProgrameThinking/WordMatchGame)
 
 ### 2019 级 - 电商交易平台
 
