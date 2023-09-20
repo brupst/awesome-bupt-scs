@@ -39,4 +39,5 @@
 * [xyToki & Jray & CN_ZYK](https://github.com/tokiInBUPT/dnsrd) (C)
 * [goverclock](https://github.com/goverclock/BUPT-Projects-Public/tree/main/dnsrelay) (C)
 * [1475505 & archester-250](https://github.com/1475505/AwesomeDNS) (C)
+* [PostGuard](https://github.com/post-guard/post_dns) (C)
 * [angrychow & phoenix-cat](https://github.com/angrychow/computer-network-course-design) (C)
