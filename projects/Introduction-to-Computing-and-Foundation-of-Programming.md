@@ -54,3 +54,7 @@
 - [angrychow](https://github.com/angrychow/Intro-to-CS)
 - [jackfiled](https://github.com/jackfiled/auto_bus)
 - [yige2021](https://github.com/yige2021/jidaokeshe2022)
+
+### 2022级 - 扫雷游戏 (C/C++)
+
+- [Catslashbin & Tianzeds](https://github.com/catslashbin/Minesweeper)
