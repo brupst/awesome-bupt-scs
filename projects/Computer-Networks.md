@@ -18,3 +18,4 @@
 - [name1e5s](https://github.com/name1e5s/playground/tree/master/Computer%20Network%20Wireshark%20Lab)
 - [renfei147](https://github.com/renfei147/bupt_work_collection/blob/main/computer_network/%E5%AE%9E%E9%AA%8C%E4%BA%8C%20Wireshark%E6%8A%93%E5%8C%85%E5%88%86%E6%9E%90.pdf)
 - [gzy](https://github.com/112292454/homework/blob/master/%E5%AE%9E%E9%AA%8C%E4%BA%8C%E6%8A%A5%E5%91%8A.pdf)
+- [YangChen-pro](https://github.com/YangChen-pro/bupt-assignments/tree/main/2nd%20year%20of%20BUPT/Second%20semester/Computer%20Network/lab2)
