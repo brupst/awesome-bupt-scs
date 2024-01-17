@@ -18,3 +18,4 @@
 * [Sduby](https://github.com/Sduby22/PP_hw): (Python)
 * [NoamChi](https://github.com/PopChicken/lab.dsl-chatbot): (Django & Vue.js)
 * [soothsayer](https://github.com/Adam-Teng/robot-dsl): (rust)
+* [td](https://github.com/tangdouer1005/customer-service-robot): (rust)
