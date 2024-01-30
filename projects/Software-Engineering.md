@@ -32,4 +32,5 @@
 * [NoamChi & TomsPillow & 4_buddies_no_account](https://github.com/PopChicken/acss_repo) (all in python: Django & PySide6)
 * [wjj710 & hkRuan & asapple & MuchiBai & Tony Zhao & Parallel23333](https://github.com/wjj710/Charging-Pile-System) (all in C++: Qt & WinAPI)
 * LiuL & archester-250 & buptttly & HUANG Jiayu & nameless0120 & Re-B（SpringBoot3 + Vue3）： [后端](https://github.com/1475505/Awesome-Charging)    [客户端前端](https://github.com/buptttly/Awesome-charging-Fe)    [管理员前端](https://github.com/1475505/Awesome-Charging-Admin-Fe)
+* [BUPT-CS-Assignment](https://github.com/BUPT-CS-Assignment/TAP-frontend) (Python & Vue3)
 
