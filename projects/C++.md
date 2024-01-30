@@ -43,6 +43,7 @@
 - [goverclock](https://github.com/goverclock/BUPT-Projects-Public/tree/main/express_manager)
 - [soothsayer](https://github.com/Adam-Teng/delivery-system/)
 - [P0wer](https://github.com/P0werWeirdo/CPP-BigHomework)
+- [BUPT-CS-Assignment](https://github.com/BUPT-CS-Assignment/LMS) (C++ & Qt)
 
 ### 2021 级 - 单词消除游戏
 
