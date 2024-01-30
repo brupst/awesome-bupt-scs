@@ -13,6 +13,7 @@
 * [gkkeys](https://github.com/gkkeys/alex) (C++)
 * [Jray](https://github.com/Jraaay/LexParser) (C++)
 * [Sduby](https://github.com/Sduby22/compiling_hw/tree/main/lab1-clexer) (C & flex)
+* [BUPT-CS-Assignment](https://github.com/BUPT-CS-Assignment/Lexer) (C++)
 
 ### 语法分析
 
@@ -27,6 +28,7 @@
 * [gkkeys](https://github.com/gkkeys/lr1-parser) (Rust)
 * [Jray](https://github.com/Jraaay/SyntaxAnalyzer) (C++)
 * [Sduby](https://github.com/Sduby22/compiling_hw/tree/main/lab2-yacc) (C)
+* [BUPT-CS-Assignment](https://github.com/BUPT-CS-Assignment/SyntaxAnalyzer) (C++)
 
 ### 语义分析
 
