@@ -53,6 +53,7 @@
 - [自然语言处理](./projects/NLP.md)
 - [Web开发技术](./projects/Web.md)
 - [数据仓库与数据挖掘](./projects/Data-War-and-Data-Mining.md)
+- [Python程序设计](./projects/Python.md)
 
 #### 其它
 
