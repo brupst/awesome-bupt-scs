@@ -4,6 +4,7 @@
 
 * [Columbine21](https://github.com/Columbine21/Android-iOS)
 * [RinChanNOWWW](https://github.com/RinChanNOWWW/Android_Homework)
+* [BUPT-CS-Assignment](https://github.com/BUPT-CS-Assignment/AndroidDevelop)
 
 ### 2017 级 - 模拟抖音实现短视频小程序 (Java)
 
@@ -21,3 +22,6 @@
 ### 2019 级
 
 * [Jray](https://github.com/Jraaay/DDL-Fighter-App-Ver) (Flutter)
+
+### 2020 级
+* [BUPT-CS-Assignment](https://github.com/BUPT-CS-Assignment/AndroidDevelop)
