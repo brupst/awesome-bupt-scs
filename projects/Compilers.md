@@ -14,6 +14,7 @@
 * [Jray](https://github.com/Jraaay/LexParser) (C++)
 * [Sduby](https://github.com/Sduby22/compiling_hw/tree/main/lab1-clexer) (C & flex)
 * [BUPT-CS-Assignment](https://github.com/BUPT-CS-Assignment/Lexer) (C++)
+* [YangChen-pro](https://github.com/YangChen-pro/bupt-assignments/tree/main/3rd%20year%20of%20BUPT/First%20semester/Compilation/lexical%20analysis) (C++ & Lex)
 
 ### 语法分析
 
@@ -29,6 +30,7 @@
 * [Jray](https://github.com/Jraaay/SyntaxAnalyzer) (C++)
 * [Sduby](https://github.com/Sduby22/compiling_hw/tree/main/lab2-yacc) (C)
 * [BUPT-CS-Assignment](https://github.com/BUPT-CS-Assignment/SyntaxAnalyzer) (C++)
+* [YangChen-pro](https://github.com/YangChen-pro/bupt-assignments/tree/main/3rd%20year%20of%20BUPT/First%20semester/Compilation/grammar%20analysis) (Python & Yacc)
 
 ### 语义分析
 
