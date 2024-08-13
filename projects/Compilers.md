@@ -16,7 +16,7 @@
 * [BUPT-CS-Assignment](https://github.com/BUPT-CS-Assignment/Lexer) (C++)
 * [YangChen-pro](https://github.com/YangChen-pro/bupt-assignments/tree/main/3rd%20year%20of%20BUPT/First%20semester/Compilation/lexical%20analysis) (C++ & Lex)
 * [ProgrameThinking](https://github.com/ProgrameThinking/Compiler_bupt)(C++)
-* [renfei147](https://github.com/renfei147/bupt_work_collection/tree/main/compiler)(C++)
+* [rand-fly](https://github.com/rand-fly/bupt_work_collection/tree/main/compiler)(C++)
 
 ### 语法分析
 
@@ -34,7 +34,7 @@
 * [BUPT-CS-Assignment](https://github.com/BUPT-CS-Assignment/SyntaxAnalyzer) (C++)
 * [YangChen-pro](https://github.com/YangChen-pro/bupt-assignments/tree/main/3rd%20year%20of%20BUPT/First%20semester/Compilation/grammar%20analysis) (Python & Yacc)
 * [ProgrameThinking](https://github.com/ProgrameThinking/Compiler_bupt)(C++)
-* [renfei147](https://github.com/renfei147/bupt_work_collection/tree/main/compiler)(C++)
+* [rand-fly](https://github.com/rand-fly/bupt_work_collection/tree/main/compiler)(C++)
 
 ### 语义分析
 

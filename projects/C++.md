@@ -47,5 +47,5 @@
 
 ### 2021 级 - 单词消除游戏
 
-- [renfei147](https://github.com/renfei147/bupt_work_collection/tree/main/cppoop)
+- [rand-fly](https://github.com/rand-fly/bupt_work_collection/tree/main/cppoop)
 - [YangChen-pro](https://github.com/YangChen-pro/bupt-assignments/tree/main/2nd%20year%20of%20BUPT/Second%20semester/C%2B%2B%20object%20oriented%20programming%20practice)
