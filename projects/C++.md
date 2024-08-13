@@ -3,8 +3,9 @@
 ### 课程作业
 
 * [name1e5s](https://github.com/name1e5s/playground/tree/master/OOP_in_C%2B%2B_HomeWork)
+* [floation_cutie](https://github.com/floation-cutie/c-plus-plus-programming)
 
-### 2014级、2018 级 - 宠物小精灵对战游戏
+### 2014级、2018 级、2022级- 宠物小精灵对战游戏
 
 * [Anjiansan](https://github.com/Anjiansan/Pokemon)
 * [BOT Man](https://github.com/BOT-Man-JL/BUPT-Projects/blob/master/3-1-Pokemon)
@@ -14,6 +15,7 @@
 * [luohaoz](https://github.com/luohaoz/pocket-man)
 * [mkj13146](https://github.com/mkj13146/Pokemon)
 * [wzekin](https://github.com/wzekin/BUPT-Projects/tree/master/C++)
+* [floation_cutie](https://github.com/floation-cutie/Pokemon-SFML-CPP)
 
 ### 2017级、2021级 - 单词消除游戏
 
