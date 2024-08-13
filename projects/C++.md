@@ -3,6 +3,7 @@
 ### 课程作业
 
 * [name1e5s](https://github.com/name1e5s/playground/tree/master/OOP_in_C%2B%2B_HomeWork)
+* [floation_cutie](https://github.com/floation-cutie/c-plus-plus-programming)
 
 ### 2014级、2018 级、2022级- 宠物小精灵对战游戏
 
