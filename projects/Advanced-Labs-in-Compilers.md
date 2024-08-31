@@ -16,3 +16,4 @@
 ## 2021级
 
 - [PostGuard](https://github.com/post-guard/Canon) (C#, Pascal-S 到 C 的编译器)
+- [RowletQwQ & JollyCorivuG & Mono312 & zjsycwmrbig & zhiruozzy](https://github.com/RowletQwQ/BUPT-PASCC) (C++, Pascal-S 到 C/RISC-V 的编译器)
