@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/16645/Desktop/McDonald/build",
+  "command": "E:\\qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/McDonald.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\McDonald.dir\\McDonald_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\16645\\Desktop\\McDonald\\build\\McDonald_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/16645/Desktop/McDonald/build/McDonald_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/McDonald.dir/McDonald_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/16645/Desktop/McDonald/build",
+  "command": "E:\\qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/McDonald.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\McDonald.dir\\main.cpp.obj -c C:\\Users\\16645\\Desktop\\McDonald\\main.cpp",
+  "file": "C:/Users/16645/Desktop/McDonald/main.cpp",
+  "output": "CMakeFiles/McDonald.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/16645/Desktop/McDonald/build",
+  "command": "E:\\qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/McDonald.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\McDonald.dir\\mainwindow.cpp.obj -c C:\\Users\\16645\\Desktop\\McDonald\\mainwindow.cpp",
+  "file": "C:/Users/16645/Desktop/McDonald/mainwindow.cpp",
+  "output": "CMakeFiles/McDonald.dir/mainwindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/16645/Desktop/McDonald/build",
+  "command": "E:\\qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/McDonald.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\McDonald.dir\\input.cpp.obj -c C:\\Users\\16645\\Desktop\\McDonald\\input.cpp",
+  "file": "C:/Users/16645/Desktop/McDonald/input.cpp",
+  "output": "CMakeFiles/McDonald.dir/input.cpp.obj"
+},
+{
+  "directory": "C:/Users/16645/Desktop/McDonald/build",
+  "command": "E:\\qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/McDonald.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\McDonald.dir\\work.cpp.obj -c C:\\Users\\16645\\Desktop\\McDonald\\work.cpp",
+  "file": "C:/Users/16645/Desktop/McDonald/work.cpp",
+  "output": "CMakeFiles/McDonald.dir/work.cpp.obj"
+},
+{
+  "directory": "C:/Users/16645/Desktop/McDonald/build",
+  "command": "E:\\qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/McDonald.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\McDonald.dir\\order_window.cpp.obj -c C:\\Users\\16645\\Desktop\\McDonald\\order_window.cpp",
+  "file": "C:/Users/16645/Desktop/McDonald/order_window.cpp",
+  "output": "CMakeFiles/McDonald.dir/order_window.cpp.obj"
+},
+{
+  "directory": "C:/Users/16645/Desktop/McDonald/build",
+  "command": "E:\\qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/McDonald.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\McDonald.dir\\McDonald_autogen\\EWIEGA46WW\\qrc_image.cpp.obj -c C:\\Users\\16645\\Desktop\\McDonald\\build\\McDonald_autogen\\EWIEGA46WW\\qrc_image.cpp",
+  "file": "C:/Users/16645/Desktop/McDonald/build/McDonald_autogen/EWIEGA46WW/qrc_image.cpp",
+  "output": "CMakeFiles/McDonald.dir/McDonald_autogen/EWIEGA46WW/qrc_image.cpp.obj"
+}
+]

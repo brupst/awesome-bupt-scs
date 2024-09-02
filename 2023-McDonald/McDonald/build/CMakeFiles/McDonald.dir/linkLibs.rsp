@@ -1,0 +1,1 @@
+ E:/qt/6.7.0/mingw_64/lib/libQt6Widgets.a E:/qt/6.7.0/mingw_64/lib/libQt6Gui.a E:/qt/6.7.0/mingw_64/lib/libQt6Core.a -lmpr -luserenv -lmingw32 E:/qt/6.7.0/mingw_64/lib/libQt6EntryPoint.a -lshell32 -ld3d11 -ldxgi -ldxguid -ld3d12 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

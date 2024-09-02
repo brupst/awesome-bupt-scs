@@ -1,0 +1,8 @@
+C:/Users/16645/Desktop/McDonald/build/CMakeFiles/McDonald.dir
+C:/Users/16645/Desktop/McDonald/build/CMakeFiles/edit_cache.dir
+C:/Users/16645/Desktop/McDonald/build/CMakeFiles/rebuild_cache.dir
+C:/Users/16645/Desktop/McDonald/build/CMakeFiles/list_install_components.dir
+C:/Users/16645/Desktop/McDonald/build/CMakeFiles/install.dir
+C:/Users/16645/Desktop/McDonald/build/CMakeFiles/install/local.dir
+C:/Users/16645/Desktop/McDonald/build/CMakeFiles/install/strip.dir
+C:/Users/16645/Desktop/McDonald/build/CMakeFiles/McDonald_autogen.dir

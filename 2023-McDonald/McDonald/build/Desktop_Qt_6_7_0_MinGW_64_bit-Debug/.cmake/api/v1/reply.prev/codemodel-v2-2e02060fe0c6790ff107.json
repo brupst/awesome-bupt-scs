@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-92fa0668603b6f2c53e6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "McDonald",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "McDonald::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-McDonald-Debug-4342325d38e83c3b1e0d.json",
+					"name" : "McDonald",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "McDonald_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-McDonald_autogen-Debug-305c034924545906fde5.json",
+					"name" : "McDonald_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "McDonald_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-McDonald_autogen_timestamp_deps-Debug-43ea384fa825bc537e32.json",
+					"name" : "McDonald_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/16645/Desktop/McDonald/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/16645/Desktop/McDonald"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

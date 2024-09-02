@@ -1,0 +1,12 @@
+18 7
+BigMac Fries Coke McChicken Sprite SpicyMcChicken Fanta McWings  Coca-Cola CaesarSalad GrilledChickenPieces Croutons SpecialDressing IceCream ChocolateSauce CrushedNuts MiniBurger Juice
+42 58 35 41 60 45 69 29 13 35 36 6 42 28 22 2 56 43 
+2 1 2 1 1 2 1 1 2 1 1 2 2 1 2 1 2 1 
+2 2
+BigMacCombo BigMac Fries Coke
+McChickenCombo McChicken Fries Sprite
+SpicyMcChickenCombo SpicyMcChicken Fries Fanta
+McWingsCombo McWings Fries Coca-Cola
+CaesarSaladCombo CaesarSalad GrilledChickenPieces Croutons SpecialDressing
+IceCreamCombo IceCream ChocolateSauce CrushedNuts
+LittleTreasureCombo MiniBurger Fries Juice
