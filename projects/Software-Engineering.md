@@ -38,3 +38,4 @@
 
 * [PostGuard](https://github.com/post-guard/Martina) (C# & ASP.NET Core & React)
 * [Guo-Chenxu & hvinci & Rablady & cky00493 & joule2003](https://github.com/Guo-Chenxu/hotel-backend) (Java & Spring Boot & Vue)
+* [Nerlci & 3DRX & weiguang1 & daixinwang](https://github.com/Nerlci/hotel_management) (Node.js & React)
