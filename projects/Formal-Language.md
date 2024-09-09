@@ -9,6 +9,7 @@
 - [PostGuard](https://github.com/post-guard/NFA2DFA) (Electron & Vue.js)
 - [gzy](https://github.com/112292454/homework/blob/master/%E5%AE%9E%E9%AA%8C%E4%B8%80-2021211183.zip)(java)
 - [YangChen-pro](https://github.com/YangChen-pro/bupt-assignments/tree/main/2nd%20year%20of%20BUPT/Second%20semester/Formal%20Languages%20and%20Automata/lab1_NFA%E8%BD%AC%E5%8C%96%E4%B8%BADFA)(c++)
+- [Nerlci](https://github.com/Nerlci/nfa2dfa)(Pythoon)
 
 ### 设计上下文无关文法的变换算法
 
