@@ -58,3 +58,6 @@
 ### 2022级 - 扫雷游戏 (C/C++)
 
 - [Catslashbin & Tianzeds](https://github.com/catslashbin/Minesweeper)
+
+### 2023级 - 麦当劳点餐服务系统 （C/C++)
+- [LiuNanfu](https://github.com/Overturn1992/bupt-2023-course_design)
