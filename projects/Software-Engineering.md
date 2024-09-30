@@ -40,3 +40,4 @@
 * [Guo-Chenxu & hvinci & Rablady & cky00493 & joule2003](https://github.com/Guo-Chenxu/hotel-backend) (Java & Spring Boot & Vue)
 * [Nerlci & 3DRX & weiguang1 & daixinwang](https://github.com/Nerlci/hotel_management) (Node.js & React)
 * [EXTRAME-PRACTICE](https://github.com/ye-rm/EXTRAME-PRACTICE) (C++ & Qt6)
++ [bupt-hotel-management](https://github.com/SamuraiBUPT/bupt-hotel-management) (FastAPI & Vue)
