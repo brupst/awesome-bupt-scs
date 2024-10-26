@@ -21,4 +21,4 @@
 ### 2021级 
 
 - [angrychow & sws, backend](https://github.com/angrychow/SOS) [angrychow, frontend](https://github.com/angrychow/SOS-frontend) (Java)
-- [YangChen-pro]([https://github.com/angrychow/SOS-frontend](https://github.com/YangChen-pro/bupt-assignments/tree/main/3rd%20year%20of%20BUPT/Second%20semester/Operating%20System%20Course%20Design/%E6%8A%A5%E5%91%8A)) (Linux内核编程小实验)
+- [YangChen-pro](https://github.com/YangChen-pro/bupt-assignments/tree/main/3rd%20year%20of%20BUPT/Second%20semester/Operating%20System%20Course%20Design/%E6%8A%A5%E5%91%8A) (Linux内核编程小实验)
