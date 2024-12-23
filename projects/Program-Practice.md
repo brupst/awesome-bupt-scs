@@ -24,3 +24,4 @@
 * [rand-fly](https://github.com/rand-fly/bupt_work_collection/tree/main/ChattyCat): (Typescript)
 * [ye-rm](https://github.com/ye-rm/MyDSL): (Go)
 * [Nerlci](https://github.com/Nerlci/dialogik): (Kotlin)
+* [65456u](https://github.com/65456u/scholar-archive/tree/main/projects/ChatFlow): (Python)
