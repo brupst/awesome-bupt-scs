@@ -59,6 +59,7 @@
 
 - [Catslashbin & Tianzeds](https://github.com/catslashbin/Minesweeper)
 - [moyuhuashu1](https://github.com/moyuhuashu1/bupt-cs-project/tree/main/%E8%AE%A1%E5%AF%BC)
+- [Yutu](https://github.com/4869fzzzzzz/MineSweeper)
 
 
 ### 2023级 - 麦当劳点餐服务系统 （C/C++)
