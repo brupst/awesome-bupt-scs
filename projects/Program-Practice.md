@@ -10,7 +10,7 @@
 * [ZHANGWENTAI](https://github.com/ZHANGWENTAI/Sudoku-frontend)：在线数独游戏（前端） (Node.js & HTML & CSS)
 
 
-### 2019 级, 2020级，2021级 ，2022级- 领域特定脚本语言的解释器
+### 2019 级，2020级，2021级 ，2022级- 领域特定脚本语言的解释器
 
 * [Jray](https://github.com/Jraaay/domain-specific-scripting-language-interpreter-js)：(JavaScript & HTML & CSS)
 * [xqmmcqs](https://github.com/xqmmcqs/robot-DSL)：(Python)
@@ -25,4 +25,5 @@
 * [ye-rm](https://github.com/ye-rm/MyDSL): (Go)
 * [Nerlci](https://github.com/Nerlci/dialogik): (Kotlin)
 * [65456u](https://github.com/65456u/scholar-archive/tree/main/projects/ChatFlow): (Python)
-* [tayhirro]([Tayhirro/BUPT_DSL_Groovy: 一个实现DSL语法的前后端网页](https://github.com/Tayhirro/BUPT_DSL_Groovy)): (flask +groovy + Vue)
+* [tayhirro](https://github.com/Tayhirro/BUPT_DSL_Groovy): (flask +groovy + Vue)
+
