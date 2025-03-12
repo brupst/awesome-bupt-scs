@@ -25,6 +25,7 @@
 * [JmPotato](https://github.com/JmPotato/DCTCS) (Python & TypeScript/JavaScript & CSS)
 * [Gaojianli](https://github.com/Gaojianli/software-engineering-web-backend/) (C# & ASP .NET Core)
 * [FAWC438](https://github.com/FAWC438/Hotel-Air-Conditioning-Dispatching-System) (Back end only: Python)
+* [SoftwareEngineeringAssignment](https://github.com/Tingwuren/SoftwareEngineeringAssignment) (Java & JavaScript & HTML & CSS)
 
 ### 2019/2020级 - 智能充电桩调度计费系统
 

@@ -19,6 +19,7 @@
 * [rand-fly](https://github.com/rand-fly/bupt_work_collection/tree/main/compiler)(C++)
 * [moyuhuashu1](https://github.com/moyuhuashu1/bupt-cs-project/tree/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%AE%9E%E9%AA%8C/%E8%AF%8D%E6%B3%95%E5%88%86%E6%9E%90)(C)
 * [65456u](https://github.com/65456u/scholar-archive/tree/main/projects/SimplePythonLexer) (C++)
+* [CompilationPrincipleExperiment1](https://github.com/Tingwuren/CompilationPrincipleExperiment1)(C)
 
 
 ### 语法分析
@@ -39,6 +40,7 @@
 * [ProgrameThinking](https://github.com/ProgrameThinking/Compiler_bupt)(C++)
 * [rand-fly](https://github.com/rand-fly/bupt_work_collection/tree/main/compiler)(C++)
 * [moyuhuashu1](https://github.com/moyuhuashu1/bupt-cs-project/tree/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%AE%9E%E9%AA%8C/%E8%AF%AD%E6%B3%95%E5%88%86%E6%9E%90)(C)
+* [CompilationPrincipleExperiment2](https://github.com/Tingwuren/CompilationPrincipleExperiment2)(C)
 
 
 ### 语义分析
