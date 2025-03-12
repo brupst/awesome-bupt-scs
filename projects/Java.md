@@ -15,6 +15,7 @@
 * [PostGuard](https://github.com/post-guard/PostLetter)
 * 即时聊天软件-[server](https://github.com/112292454/javaOO)/[client](https://github.com/angrychow)
 * [Guo-Chenxu & ypx9628 & hvinci](https://github.com/Guo-Chenxu/chatroom)
+* [JavaFinalHomework](https://github.com/Tingwuren/JavaFinalHomework)
 
 ### 2022 级 - 聊天室
 
