@@ -44,3 +44,7 @@
 * [PostGuard](https://github.com/post-guard/PostCalendarBackend) (Java & Vue)
 * [rand-fly & LinesHogan & myboker](https://github.com/rand-fly/datastructure_design)
 * [gzy & Guo-chenxu & ypx9628](https://github.com/112292454/DSlab)(java & vue)
+
+### 2022级 - 学生游学系统
+
+* [SabeR0222 & z6iyu]([SabeR0222/buptDataStructure-Project](https://github.com/SabeR0222/buptDataStructure-Project))(java & vue)
