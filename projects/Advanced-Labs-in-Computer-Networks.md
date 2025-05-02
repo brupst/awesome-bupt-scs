@@ -45,3 +45,4 @@
 * [yige2021](https://github.com/yige2021/LyDNS_new)(C)
 * [YangChen-pro](https://github.com/YangChen-pro/bupt-assignments/tree/main/2nd%20year%20of%20BUPT/Second%20semester/Computer%20Network/Course%20Design) (C)
 * [BUPT-CS-Assignment](https://github.com/BUPT-CS-Assignment/DNS-Relay) (C)
+* [65456u](https://github.com/65456u/scholar-archive/tree/main/projects/SimpleDNSRelayServer) (C)

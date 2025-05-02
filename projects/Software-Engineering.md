@@ -25,6 +25,7 @@
 * [JmPotato](https://github.com/JmPotato/DCTCS) (Python & TypeScript/JavaScript & CSS)
 * [Gaojianli](https://github.com/Gaojianli/software-engineering-web-backend/) (C# & ASP .NET Core)
 * [FAWC438](https://github.com/FAWC438/Hotel-Air-Conditioning-Dispatching-System) (Back end only: Python)
+* [SoftwareEngineeringAssignment](https://github.com/Tingwuren/SoftwareEngineeringAssignment) (Java & JavaScript & HTML & CSS)
 
 ### 2019/2020级 - 智能充电桩调度计费系统
 
@@ -37,3 +38,7 @@
 ### 2021级 - 廉价酒店管理系统
 
 * [PostGuard](https://github.com/post-guard/Martina) (C# & ASP.NET Core & React)
+* [Guo-Chenxu & hvinci & Rablady & cky00493 & joule2003](https://github.com/Guo-Chenxu/hotel-backend) (Java & Spring Boot & Vue)
+* [Nerlci & 3DRX & weiguang1 & daixinwang](https://github.com/Nerlci/hotel_management) (Node.js & React)
+* [EXTRAME-PRACTICE](https://github.com/ye-rm/EXTRAME-PRACTICE) (C++ & Qt6)
+* [bupt-hotel-management](https://github.com/SamuraiBUPT/bupt-hotel-management) (FastAPI & Vue)
