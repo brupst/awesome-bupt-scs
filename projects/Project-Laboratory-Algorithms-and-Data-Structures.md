@@ -47,4 +47,4 @@
 
 ### 2022级 - 学生游学系统
 
-* [SabeR0222 & z6iyu]([SabeR0222/buptDataStructure-Project](https://github.com/SabeR0222/buptDataStructure-Project))(java & vue)
+* [SabeR0222 & z6iyu](https://github.com/SabeR0222/buptDataStructure-Project)(java & vue)
