@@ -27,3 +27,4 @@
 * [65456u](https://github.com/65456u/scholar-archive/tree/main/projects/ChatFlow): (Python)
 * [tayhirro](https://github.com/Tayhirro/BUPT_DSL_Groovy): (flask +groovy + Vue)
 * [floation-cutie](https://github.com/floation-cutie/service_robot): (rust)
+* [Holour](https://github.com/Holour/U-Shall-Eat): (Python)
