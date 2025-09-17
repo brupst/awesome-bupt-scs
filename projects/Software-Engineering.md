@@ -42,3 +42,7 @@
 * [Nerlci & 3DRX & weiguang1 & daixinwang](https://github.com/Nerlci/hotel_management) (Node.js & React)
 * [EXTRAME-PRACTICE](https://github.com/ye-rm/EXTRAME-PRACTICE) (C++ & Qt6)
 * [bupt-hotel-management](https://github.com/SamuraiBUPT/bupt-hotel-management) (FastAPI & Vue)
+
+### 2022级 - 廉价酒店空调系统
+
+* [12345txy](https://github.com/12345txy/hotel_frontend) (Java & Spring Boot & Vue)
