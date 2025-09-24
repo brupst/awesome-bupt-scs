@@ -48,3 +48,6 @@
 ### 2022级 - 学生游学系统
 
 * [SabeR0222 & z6iyu](https://github.com/SabeR0222/buptDataStructure-Project)(java & vue)
+
+### 2023级 - 学生游学系统
+* [ruguiima](https://github.com/ruguiima/travel-system-BUPT)(C++ & QT)
