@@ -48,7 +48,7 @@
 - [KernelErr](https://github.com/KernelErr/BUPT-CPU-Simulator)
 - [YaoYu0101](https://github.com/YaoYu0101/BUPT-vonNeumann-Simulator)
 
-### 2021级 - 自动驾驶公交车调度系统（C/C++）
+### 2021级 - 自动驾驶公交车调度系统 (C/C++)
 
 - [AryCra07](https://github.com/AryCra07/busDispatchingSystem)
 - [angrychow](https://github.com/angrychow/Intro-to-CS)
@@ -62,6 +62,12 @@
 - [Yutu](https://github.com/4869fzzzzzz/MineSweeper)
 
 
-### 2023级 - 麦当劳点餐服务系统 （C/C++)
+### 2023级 - 麦当劳点餐服务系统 (C/C++)
+
 - [LiuNanfu](https://github.com/Overturn1992/bupt-2023-course_design)
 - [ruguiima](https://github.com/ruguiima/mcdonald-order)
+
+
+### 2024级 - 俄罗斯方块 (C/C++)
+
+- [Rikka](https://github.com/NoNormalCreeper/tetris_hw) 以及 [图形化版本](https://github.com/NoNormalCreeper/tetris_hw_gui)
