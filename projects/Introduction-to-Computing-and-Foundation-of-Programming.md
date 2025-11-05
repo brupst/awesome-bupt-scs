@@ -71,3 +71,4 @@
 ### 2024级 - 俄罗斯方块 (C/C++)
 
 - [Rikka](https://github.com/NoNormalCreeper/tetris_hw) 以及 [图形化版本](https://github.com/NoNormalCreeper/tetris_hw_gui)
+- [RuriNyan](https://github.com/RuriHomework/Tetris) 以及 训练部分 [Mortis](https://github.com/RuriHomework/Mortis)
