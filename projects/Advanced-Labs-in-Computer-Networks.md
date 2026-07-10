@@ -2,7 +2,7 @@
 
 > 2018级开始，计算机网络课程设计要求仅能使用C语言
 
-### 2016(or early)级 ～ 2021 级 - DNS 中继服务器
+### 2016(or early)级 ～ 2024 级 - DNS 中继服务器
 
 * [ApinePro](https://github.com/ApinePro/DNS-Relay-Server) (Python)
 * [Bamboo0206](https://github.com/Bamboo0206/DNS_Relay) (C/C++)
@@ -36,14 +36,15 @@
 * [xqmmcqs](https://github.com/xqmmcqs/dns-relay) (C)
 * [gkkeys](https://github.com/gkkeys/dns) (C)
 * [chunkitlau](https://github.com/chunkitlau/dns_relay) (C)
-* [xyToki & Jray & CN_ZYK](https://github.com/tokiInBUPT/dnsrd) (C)
+* [xyToki &amp; Jray &amp; CN_ZYK](https://github.com/tokiInBUPT/dnsrd) (C)
 * [goverclock](https://github.com/goverclock/BUPT-Projects-Public/tree/main/dnsrelay) (C)
-* [1475505 & archester-250](https://github.com/1475505/AwesomeDNS) (C)
+* [1475505 &amp; archester-250](https://github.com/1475505/AwesomeDNS) (C)
 * [rand-fly](https://github.com/rand-fly/bupt_work_collection/tree/main/dnsrelay) (C)
 * [PostGuard](https://github.com/post-guard/post_dns) (C)
-* [angrychow & phoenix-cat](https://github.com/angrychow/computer-network-course-design) (C)
+* [angrychow &amp; phoenix-cat](https://github.com/angrychow/computer-network-course-design) (C)
 * [yige2021](https://github.com/yige2021/LyDNS_new)(C)
 * [YangChen-pro](https://github.com/YangChen-pro/bupt-assignments/tree/main/2nd%20year%20of%20BUPT/Second%20semester/Computer%20Network/Course%20Design) (C)
 * [BUPT-CS-Assignment](https://github.com/BUPT-CS-Assignment/DNS-Relay) (C)
 * [65456u](https://github.com/65456u/scholar-archive/tree/main/projects/SimpleDNSRelayServer) (C)
 * [ruguiima](https://github.com/ruguiima/DNS-server) (C)
+* [AUV888](https://github.com/AUV888/DNS_Relay) (C)
