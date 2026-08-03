@@ -18,3 +18,4 @@
 - [PostGuard](https://github.com/post-guard/Canon) (C#, Pascal-S 到 C 的编译器)
 - [RowletQwQ & JollyCorivuG & Mono312 & zjsycwmrbig & zhiruozzy](https://github.com/RowletQwQ/BUPT-PASCC) (C++, Pascal-S 到 C/RISC-V 的编译器)
 - [Nerlci & 3DRX & weiguang1 & daixinwang & 11BugMaker](https://github.com/Nerlci/passcal) (ANTLR4 & C++ & LLVM, Pascal-S 编译器)
+- [scallion7](https://github.com/scallion7/BUPT_Bachelor/tree/main/三年级junior/编译原理课设/最终提交) (Python & PLY & PyQt5, Pascal-S 到 C 的编译器)
