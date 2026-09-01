@@ -40,12 +40,13 @@
 - [xyToki](https://github.com/tokiInBUPT/xshop)
 - [Sduby](https://github.com/Sduby22/cpp-emarket)
 
-### 2020 级 - 物流管理平台
+### 2020 级、2024 级 - 物流管理平台
 
 - [goverclock](https://github.com/goverclock/BUPT-Projects-Public/tree/main/express_manager)
 - [soothsayer](https://github.com/Adam-Teng/delivery-system/)
 - [P0wer](https://github.com/P0werWeirdo/CPP-BigHomework)
 - [BUPT-CS-Assignment](https://github.com/BUPT-CS-Assignment/LMS) (C++ & Qt)
+- [Rikka](https://github.com/NoNormalCreeper/ExpressFlow)
 
 ### 2021 级 - 单词消除游戏
 
