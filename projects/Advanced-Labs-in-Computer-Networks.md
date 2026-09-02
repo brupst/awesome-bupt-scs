@@ -48,3 +48,4 @@
 * [65456u](https://github.com/65456u/scholar-archive/tree/main/projects/SimpleDNSRelayServer) (C)
 * [ruguiima](https://github.com/ruguiima/DNS-server) (C)
 * [AUV888](https://github.com/AUV888/DNS_Relay) (C)
+* [Rikka](https://github.com/NoNormalCreeper/dns-rla) (C)
